@@ -1,0 +1,1 @@
+function muffafa(){const e=document.querySelectorAll('input[type="radio"][value="3"]');e.forEach(e=>e.checked=!0);const l=document.querySelectorAll('input[type="text"]');l.forEach(e=>e.value=4),console.log('All radio buttons with value "3" are selected and all input fields are filled with "4".')}muffafa();
